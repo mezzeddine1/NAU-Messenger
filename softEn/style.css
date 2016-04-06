@@ -1,0 +1,6 @@
+html, body { margin: 0; padding: 0; }
+body { font-family: Verdana, sans-serif; font-size: 12px; background: white; }
+#wrapper { margin: 2em auto; width: 400px; background: #eee;  padding: 1em; text-align: center; -moz-border-radius: 15px; -webkit-border-radius: 15px; }
+
+h1 { font-size: 200%; font-weight: normal; line-height: 2em; }
+p { line-height: 2em; }
