@@ -1,0 +1,15 @@
+body { background: #808; color: white; }
+#error { color: white; }
+
+#header,
+#send-message td { background: #707; }
+
+#header,
+#send-message td,
+#chat-window li,
+#users-list,
+#users-list li { border-color: #a0a; }
+
+#chat-window li.system { color: white; }
+#chat-window li.own { background: #919; }
+#chat-window .time { color: white; }

@@ -1,0 +1,9 @@
+body { background: white; color: #222; }
+#error { color: red; }
+
+#header,
+#send-message td { background: #f3f3f3; }
+
+#chat-window li.system { color: #999; }
+#chat-window li.own { background: #eee; }
+#chat-window .time { color: #bbb; }
