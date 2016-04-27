@@ -7,6 +7,6 @@ Description: Web based application which allows North American University studen
 - Database mySQL;
 - HTML5; 
 - CSS3; 
-- Telegram's API
+- PHP
 
 
